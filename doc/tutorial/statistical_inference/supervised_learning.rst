@@ -153,7 +153,7 @@ Linear regression
 .. currentmodule:: sklearn.linear_model
 
 :class:`LinearRegression`,
-in it's simplest form, fits a linear model to the data set by adjusting
+in its simplest form, fits a linear model to the data set by adjusting
 a set of parameters in order to make the sum of the squared residuals
 of the model as small as possible.
 
@@ -339,7 +339,7 @@ application of Occam's razor: `prefer simpler models`.
     problem. For instance the `Lasso` object in the `scikit-learn`
     solves the lasso regression problem using a
     `coordinate decent <http://en.wikipedia.org/wiki/Coordinate_descent>`_ method,
-    that is efficient on large datasets. However, the `scikit-learn` also
+    which is efficient on large datasets. However, the `scikit-learn` also
     provides the :class:`LassoLars` object using the *LARS* which is very
     efficient for problems in which the weight vector estimated is very
     sparse, (i.e. problems with very few observations).
