@@ -102,7 +102,7 @@ access to the features that can be used to classify the digits samples::
    [  0.   0.   2. ...,  12.   0.   0.]
    [  0.   0.  10. ...,  12.   1.   0.]]
 
-and `digits.target` gives the ground truth for the digit dataset, that
+and `digits.target` gives the ground truth for the digit dataset, which
 is the number corresponding to each digit image that we are trying to
 learn::
 
@@ -172,7 +172,7 @@ one::
     gamma=0.001, kernel='rbf', max_iter=-1, probability=False,
     random_state=None, shrinking=True, tol=0.001, verbose=False)
 
-Now you can predict new values, in particular, we can ask to the
+Now you can predict new values, in particular, we can ask the
 classifier what is the digit of our last image in the `digits` dataset,
 which we have not used to train the classifier::
 
