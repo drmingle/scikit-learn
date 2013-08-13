@@ -13,7 +13,7 @@ A tutorial on statistical-learning for scientific data processing
     linking different observations, to classifying observations, or
     learning the structure in an unlabeled dataset. 
     
-    This tutorial will explore `statistical learning`, that is the use of
+    This tutorial will explore `statistical learning`, which is the use of
     machine learning techniques with the goal of `statistical inference 
     <http://en.wikipedia.org/wiki/Statistical_inference>`_:
     drawing conclusions on the data at hand.
