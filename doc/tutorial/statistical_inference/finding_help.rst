@@ -28,7 +28,7 @@ Q&A communities with Machine Learning practitioners
     also features some interesting discussions:
     http://quora.com/Machine-Learning
 
-    Have a look at the best questions section, eg: `What are some
+    Have a look at the best questions section, e.g.: `What are some
     good resources for learning about machine learning`_.
 
 
