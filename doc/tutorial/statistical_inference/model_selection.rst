@@ -1,5 +1,5 @@
 .. _model_selection_tut:
-
+estimator with an linear kernel as a function of parameter 
 ============================================================
 Model selection: choosing estimators and their parameters
 ============================================================
@@ -97,7 +97,7 @@ of the computer.
 
    *
 
-    - Split it K folds, train on K-1 and then test on left-out
+    - Split it K folds, train on K-1 and then test on left-outestimator with a linear kernel as a function of parameter
 
     - It preserves the class ratios / label distribution within each fold. 
 
