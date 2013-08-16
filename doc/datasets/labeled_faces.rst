@@ -4,7 +4,7 @@ The Labeled Faces in the Wild face recognition dataset
 ======================================================
 
 This dataset is a collection of JPEG pictures of famous people collected
-over the internet, all details are available on the official website:
+over the internet; all details are available on the official website:
 
     http://vis-www.cs.umass.edu/lfw/
 
