@@ -1,10 +1,9 @@
-
 .. _covtype:
 
 Forest covertypes
 =================
 
-The samples in this dataset correspond to 30×30m patches of forest in the US,
+The samples in this dataset correspond to 30×30m patches of forest in the U.S.,
 collected for the task of predicting each patch's cover type,
 i.e. the dominant species of tree.
 There are seven covertypes, making this a multiclass classification problem.
@@ -17,4 +16,4 @@ while others are discrete or continuous measurements.
 it returns a dictionary-like object
 with the feature matrix in the ``data`` member
 and the target values in ``target``.
-The dataset will be downloaded from the web if necessary.
+The dataset can be downloaded from the web if necessary.
